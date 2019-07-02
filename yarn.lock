@@ -5123,10 +5123,10 @@ mkdirp@0.5.1, mkdirp@0.5.x, mkdirp@^0.5.0, mkdirp@^0.5.1, mkdirp@~0.5.0, mkdirp@
   dependencies:
     minimist "0.0.8"
 
-monaco-editor-vue@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/monaco-editor-vue/-/monaco-editor-vue-1.0.6.tgz#014f616697ff1980b05b81f4319d56904735ba3c"
-  integrity sha512-M+Q8kmRqwoA+qUg4gym9qbgv3QkijItXT+Do+5ib5TqPcyf+4P5ExkrF2y0xsXY74sH5VCgBX6t7HoQLOuFATw==
+monaco-editor-vue@^1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/monaco-editor-vue/-/monaco-editor-vue-1.0.7.tgz#2801e8b0a5a33e0e90262854234643c177c5d55a"
+  integrity sha512-zWx0gS+cTFFyIrBrkFZcugoYtG7ZlVgxczCAD01p3bXBL6DxS5S4VXuEfjCAyASWI7Kw4cm1wQCDGIJ2V6ZyIQ==
   dependencies:
     monaco-editor "^0.15.6"
     vue "^2.5.17"
@@ -7925,12 +7925,7 @@ vue-template-es2015-compiler@^1.9.0:
   resolved "https://registry.npm.taobao.org/vue-template-es2015-compiler/download/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha1-HuO8mhbsv1EYvjNLsV+cRvgvWCU=
 
-vue@^2.5.17:
-  version "2.6.10"
-  resolved "https://registry.npm.taobao.org/vue/download/vue-2.6.10.tgz#a72b1a42a4d82a721ea438d1b6bf55e66195c637"
-  integrity sha1-pysaQqTYKnIepDjRtr9V5mGVxjc=
-
-vue@^2.6.10:
+vue@^2.5.17, vue@^2.6.10:
   version "2.6.10"
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.10.tgz#a72b1a42a4d82a721ea438d1b6bf55e66195c637"
   integrity sha512-ImThpeNU9HbdZL3utgMCq0oiMzAkt1mcgy3/E6zWC/G6AaQoeuFdsl9nDhTDU3X1R6FK7nsIUuRACVcjI+A2GQ==
