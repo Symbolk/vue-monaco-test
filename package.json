@@ -12,8 +12,9 @@
     "bootstrap-vue": "^2.0.0-rc.25",
     "core-js": "^2.6.5",
     "monaco-editor-vue": "^1.0.7",
+    "monaco-editor-webpack-plugin": "^1.7.0",
     "vue": "^2.6.10",
-    "vue-monaco": "^1.0.0"
+    "vue-monaco": "^1.0.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.8.0",

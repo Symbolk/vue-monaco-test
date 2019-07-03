@@ -1,12 +1,11 @@
 <template>
   <div>
-    <b-button @click="setLang('javascript')" variant="outline-primary">Set Language</b-button>
-    <b-button @click="setTheme('vs-dark')" variant="outline-primary">Set Theme</b-button>
     <MonacoEditor
       :diffEditor="true"
       :original="left"
       :value="right"
       class="editor"
+      language="javascript"
       ref="diffViewEditor"
     />
   </div>
